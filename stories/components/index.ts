@@ -1,5 +1,6 @@
 export {Button} from './Button';
 export {ConfirmModal} from './ConfirmModal';
+export {Modal} from './Modal';
 export {Container} from './Container';
 export type {ContainerProps} from './Container';
 export {Axis, Draggable, DraggableOverlay} from './Draggable';
